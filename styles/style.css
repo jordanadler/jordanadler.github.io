@@ -1,0 +1,18 @@
+div {
+  background: yellow;
+}
+p.caps {
+  font-size: 60px
+}
+
+[data-title="fantastic"] {
+  background: Red
+}
+[data-title="greeting"] {
+  background: Green
+}
+
+[data-title="brilliant"] {
+  color: Purple;
+  font-size: 100px
+}
